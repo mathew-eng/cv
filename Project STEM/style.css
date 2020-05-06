@@ -1,0 +1,128 @@
+body{
+    font-family: 'Montserrat';
+
+}
+#title{
+    background-color: honeydew;
+    color: #e2a6a6
+}
+.logo{
+    width: 100px;
+    height: 100px;
+border-radius: 50%;
+margin-right: 10px;
+margin-top: 8px;
+}
+
+a{
+    color: rgb(45, 157, 223);
+
+}
+p{
+    color: green;
+}
+.navbar{
+    padding:0 0 1rem;
+
+}
+.navbar-brand{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-right: 50px;
+    text-decoration: none;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-family: "Montserrat-Light";
+}
+.nav-link:hover{
+    color: green;
+}
+.nav-item{
+    padding: 0px 4px;
+}
+#testimonials{
+    background-color: #af94b4;
+    color: black;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.timage{
+    border-radius: 100%;
+    width: 50%;
+    margin: 10px 10px 20px 20px;
+    position: relative;
+    left: 200px;
+}
+.texts{
+    text-align: center;
+    padding: 3% 5% 7%;
+}
+h3{
+    text-align: center;
+    color: #552244;
+}
+h4{
+color:rgb(17, 243, 17);
+text-align:end;
+}
+.download-button{
+    margin:5% 3% 5% 0;
+}
+#Features{
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(98, 201, 98);
+}
+.features-column{
+    padding: 2% 3% 2%;
+    color: indigo;
+}
+.col{
+    margin-left: 20px;
+    text-align: center;
+    padding: 3% 5% 7%;
+    margin: 50px;
+}
+.feat{
+    padding: 5%;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+.icon{
+    color:indigo;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: rgba(24, 74, 212, 0.667);
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+ 
+}
+.footer{
+   background-color: #f1eaca;
+   margin-left: 0px ;
+}
+.social{
+    margin: 10px 20px;
+}
+.foot{
+    color:#0eb345;
+}
+h6{
+    color:black;
+    margin-left: 0px;
+}
+.partners{
+    text-align: center;
+    justify-content: center;
+    color: #552244;
+}
+.part{
+margin: 6px;
+width: 17%;
+}
